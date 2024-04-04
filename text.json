@@ -1,0 +1,107 @@
+[
+    {
+        "question": "Which one is dog?",
+        "options": [
+            {
+                "image": "lmage1.1.webp",
+                "correct": false
+            },
+            {
+                "image": "image1.webp",
+                "correct": true
+            },
+            {
+                "image": "image1.2.jpg",
+                "correct": false
+            },
+            {
+                "image": "image1.3.webp",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "select tajmahal below",
+        "options": [
+            {
+                "image": "image10.1.jpg",
+                "correct": false
+            },
+            {
+                "image": "image10.2.jpg",
+                "correct": false
+            },
+            {
+                "image": "image10.jpg",
+                "correct": true
+            },
+            {
+                "image": "image10.3.webp",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Question 3  <br><br> choose healthy meal pls?",
+        "options": [
+            {
+                "image": "image3.1.jpg",
+                "correct": false
+            },
+            {
+                "image": "image3.2.webp",
+                "correct": false
+            },
+            {
+                "image": "image3.webp",
+                "correct": true
+            },
+            {
+                "image": "image3.3.jpeg",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Question 4 <br><br> Find the india flag below?",
+        "options": [
+            {
+                "image": "image4.1.jpg",
+                "correct": false
+            },
+            {
+                "image": "image4.2.jpg",
+                "correct": false
+            },
+            {
+                "image": "image4.jpg",
+                "correct": true
+            },
+            {
+                "image": "image4.3.jpg",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "choose lion pls?",
+        "options": [
+            {
+                "image": "image5.2.jpg",
+                "correct": false
+            },
+            {
+                "image": "image5.1.webp",
+                "correct": false
+            },
+            {
+                "image": "image5 (2).jpg",
+                "correct": true
+            },
+            {
+                "image": "image5.3.jpg",
+                "correct": false
+            }
+        ]
+    }
+]
